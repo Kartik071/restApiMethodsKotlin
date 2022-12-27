@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">restApiMethodsKotlin</string>
+    <string name="post">GetPost</string>
+    <string name="update">Update</string>
+    <string name="comments">GetComments</string>
+    <string name="textview">Title</string>
+    <string name="id">Id</string>
+    <string name="body">Body</string>
+    <string name="user_id">User Id</string>
+    <string name="username">Username</string>
+    <string name="comment_id">Comment Id</string>
+    <string name="comment_mail">Comment Email</string>
+    <string name="post_id">Post Id</string>
+    <string name="comment_text">Comment Text</string>
+    <string name="createpost">createPost</string>
+    <string name="deletepost">DeletePost</string>
+</resources>
